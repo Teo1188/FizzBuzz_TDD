@@ -96,3 +96,4 @@ E:\Code\TareaTdd\TareaTdd\TareaTdd\obj\Debug\net9.0\refint\TareaTdd.test.dll
 E:\Code\TareaTdd\TareaTdd\TareaTdd\obj\Debug\net9.0\TareaTdd.test.pdb
 E:\Code\TareaTdd\TareaTdd\TareaTdd\obj\Debug\net9.0\TareaTdd.test.genruntimeconfig.cache
 E:\Code\TareaTdd\TareaTdd\TareaTdd\obj\Debug\net9.0\ref\TareaTdd.test.dll
+E:\Code\TareaTdd\TareaTdd\TareaTdd\obj\Debug\net9.0\TareaTdd.test.sourcelink.json

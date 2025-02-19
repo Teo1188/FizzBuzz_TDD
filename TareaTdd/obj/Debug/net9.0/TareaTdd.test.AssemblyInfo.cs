@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaTdd.test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95901e0bc7c8fc8e65695cef859beb1f50a749e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaTdd.test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaTdd.test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
